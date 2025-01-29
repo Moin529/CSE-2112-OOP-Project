@@ -1,0 +1,21 @@
+dest1 = Cox's Bazar
+dest2 = Sajek Valley
+dest3 = Saint Martin
+dest4 = Sonargaon
+dest5 = Sundarbans
+dest6 = Sreemangal
+dest7 = Bandarban
+dest8 = Kuakata
+dest9 = Rangamati
+dest10 = Ratargul Swamp Forest
+
+hotel1 = Atlantis Hotel
+hotel2 = Central Hotel
+hotel3 = Dream Hotel
+hotel4 = Radisson Blue Hotel
+hotel5 = Hotel Haven
+hotel6 = River View Hotel
+hotel7 = Sea Pearl Hotel
+hotel8 = Groove Center Hotel
+hotel9 = Grand Hotel
+hotel10 = Oceanfront Hotel

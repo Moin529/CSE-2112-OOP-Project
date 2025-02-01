@@ -55,3 +55,15 @@ Method - 2: (With IDE)
 2. Open one of the recommended IDE
 3. Then click open project and open "Travel Management System"
 4. Then debug and run the project
+
+__________________________
+Links
+__________________________
+
+1. YouTube Video Link: https://youtu.be/9hC3Vglsp28
+2. GitHub Source Code Link: https://github.com/Moin529/CSE-2112-OOP-Project/tree/main
+3. Resources:
+   •	https://www.w3schools.com
+   •	https://www.javatpoint.com
+   •	https://www.codecademy.com
+   •	https://www.stackoverflow.com

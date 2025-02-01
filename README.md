@@ -39,7 +39,7 @@ To run this command, you must open terminal in this directory: ~\MySQL\MySQL Ser
 (For me: C:\Program Files\MySQL\MySQL Server 8.0\bin)
 
 _______________________
-Installation
+Installation:
 _______________________
 
 Method - 1: (Without IDE)
@@ -57,7 +57,7 @@ Method - 2: (With IDE)
 4. Then debug and run the project
 
 __________________________
-Links
+Links:
 __________________________
 
 1. YouTube Video Link: https://youtu.be/9hC3Vglsp28

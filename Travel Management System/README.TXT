@@ -11,6 +11,7 @@ Note : For connecting to database please change your username to 'root' and set 
 	mysqladmin -u root -p password 1234
 Press enter and insert your old MySQL password and continue.
 To run this command, you must open terminal in this directory: ~\MySQL\MySQL Server X.X\bin (X.X = your MySQL version)
+(For me: C:\Program Files\MySQL\MySQL Server 8.0\bin)
 
 _______________________
 Installation
